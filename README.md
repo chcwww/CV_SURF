@@ -1,9 +1,11 @@
-## Computer Vision Midterm Project.
+## Computer Vision Midterm Project
 - 410978049 統計4 江泓志
 
-I presentSURFmethod implemented with Python here to matching two image with their descriptors computed using SURF method. 
+I present SURF method implemented with Python here to matching two image with their descriptors computed using SURF method. 
 
+Lischeck this modele
 List of files:
+:
 1. CV_SURF/surf_module.py - Include :
 - SURF(class) to compute keypoints
 - SURF_Matcher(class) to compare keypoints and descriptors of two image  
