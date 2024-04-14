@@ -1,4 +1,4 @@
-## Computer Vision Midterm Project
+## Computer Vision Midterm Project.
 - 410978049 統計4 江泓志
 
 I present SURF method implemented with Python here to matching two image with their descriptors computed using SURF method. 
