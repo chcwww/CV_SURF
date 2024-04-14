@@ -8,7 +8,7 @@ List of files:
 - SURF(class) to compute keypoints
 - SURF_Matcher(class) to compare keypoints and descriptors of two image  
 
-1. CV_SURF/surf_naive.py - You can input a image and it will output a image with keypoint (aware of path, there is a bit of messyl)
+2. CV_SURF/surf_naive.py - You can input a image and it will output a image with keypoint (aware of path, there is a bit of messyl)
 
 
 3. CV_SURF/surf_match_adv.py - You can input a base image and do some transformation like rotate or rescale, then the script will output the result of base image compare to all the other transformed image 
