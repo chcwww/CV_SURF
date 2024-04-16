@@ -3,6 +3,9 @@
 
 I present SURF method implemented with Python here to matching two image with their descriptors computed using SURF method. 
 
+![result_sample](ntpu_result/image_ntpu_library_match.jpg)
+> The performance of scale invariance in the image is not that good, though.
+
 List of files:
 1. CV_SURF/surf_module.py - Include :
    - SURF(class) to compute keypoints
