@@ -5,8 +5,8 @@ I present SURF method implemented with Python here to matching two image with th
 
 List of files:
 1. CV_SURF/surf_module.py - Include :
-- SURF(class) to compute keypoints
-- SURF_Matcher(class) to compare keypoints and descriptors of two image  
+   - SURF(class) to compute keypoints
+   - SURF_Matcher(class) to compare keypoints and descriptors of two image  
 
 2. CV_SURF/surf_naive.py - You can input a image and it will output a image with keypoint (aware of path, there is a bit of messyl)
 
